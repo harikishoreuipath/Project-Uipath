@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_mainURL",
+      "DisplayName": "in_mainURL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "https://provider.ihx.in/",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_FinURL",
+      "DisplayName": "in_FinURL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "https://checspro.vizzafintech.com/admin/claim/list",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
